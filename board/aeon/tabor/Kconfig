@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: GPL-2.0+
+
+# AmigaOne A1222 (Varisys Tabor, QorIQ P1022): board selection for TARGET_TABOR.
+
+if TARGET_TABOR
+
+config SYS_BOARD
+	default "tabor"
+
+config SYS_VENDOR
+	default "aeon"
+
+config SYS_CONFIG_NAME
+	default "tabor"
+
+endif

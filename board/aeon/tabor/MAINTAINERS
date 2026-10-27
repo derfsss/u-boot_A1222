@@ -1,0 +1,5 @@
+TABOR BOARD (AmigaOne A1222, Varisys Tabor, QorIQ P1022)
+S:	Maintained
+F:	board/aeon/tabor/
+F:	include/configs/tabor.h
+F:	configs/Tabor_SDCARD_defconfig
